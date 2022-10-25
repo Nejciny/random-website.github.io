@@ -687,7 +687,13 @@ figure img {
 .popup_img img  {
     max-height: auto;
     /* max-width: 90%; */
-    max-height: 90vh;
+    /* max-height: 90vh; */
+
+    position: absolute;
+    max-width: 90%;
+    max-height: 90%;
+
+    top: 100px;
 }
 
 
