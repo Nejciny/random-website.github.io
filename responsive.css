@@ -294,6 +294,10 @@
       margin-bottom: 0px;
     }
 
+    .popup_img img {
+      top: 25%;
+    }
+
     footer{
       flex-direction: column;
       max-width: 100%;
